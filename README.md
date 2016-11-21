@@ -1,2 +1,1 @@
-# crypto-js
-# crypto-js 3.1.2
+# crypto-js Version:3.1.2
